@@ -1,6 +1,6 @@
-### Hi there 👋
+![img](https://raw.githubusercontent.com/goreleaser/artwork/master/opencollective-header.png)
 
-**This is a bot account!**
+## This is a bot account!
 
 - Please do not add me to your repositories - that's not needed for GoReleaser to work;
 - Do not email me;
